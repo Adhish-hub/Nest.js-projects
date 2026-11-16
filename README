@@ -1,0 +1,38 @@
+# NestJS Learning Roadmap
+
+A collection of 10 hands-on mini-projects built while learning NestJS, progressing from fundamental concepts to advanced backend development.
+
+## Projects
+
+| No. | Project | Concepts |
+|---|---|---|
+| 1 | Hello API | NestJS fundamentals, controllers and services |
+| 2 | Student Service | Dependency injection and providers |
+| 3 | Validation | DTOs and request validation |
+| 4 | MongoDB | MongoDB and Mongoose integration |
+| 5 | Blog API | REST APIs and CRUD operations |
+| 6 | Blog Comments | Relationships and nested resources |
+| 7 | Authentication | JWT, sessions and authentication |
+| 8 | Authorization & Security | Guards, roles and security |
+| 9 | Testing & Documentation | Unit testing, E2E testing and Swagger |
+| 10 | Background Jobs | Redis, BullMQ, Nodemailer and scheduled notifications |
+
+## Tech Stack
+
+- NestJS
+- TypeScript
+- Node.js
+- MongoDB and Mongoose
+- Redis and BullMQ
+- JWT authentication
+- Vitest and Supertest
+- Swagger
+- Docker
+
+## Repository Structure
+
+Each mini-project is maintained in its own folder with independent dependencies and configuration.
+
+## Purpose
+
+This repository documents practical NestJS learning through progressively more advanced backend projects.
